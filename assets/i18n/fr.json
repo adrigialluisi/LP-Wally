@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "lang": "fr",
+    "locale": "fr_FR",
+    "title": "Wally Fonseca — Tattoo & Art",
+    "description": "Tatoueur primé avec 25 ans d'expérience dans 18 pays. Tatouage réaliste, fine line et peinture sur toile. Réservez votre séance exclusive."
+  },
+  "nav": {
+    "showcase": "Galerie",
+    "about": "À propos",
+    "media": "Presse",
+    "cta": "Réserver"
+  },
+  "hero": {
+    "tagline": "L'art qui voyage. L'encre qui reste.",
+    "cta": "Réservez votre séance"
+  },
+  "showcase": {
+    "title": "Galerie d'Art",
+    "subtitle": "Une sélection de tatouages, peintures et œuvres d'art",
+    "filters": {
+      "all": "Tout",
+      "realistic": "Réaliste",
+      "fineline": "Fine Line",
+      "oriental": "Oriental",
+      "paintings": "Peintures",
+      "blackwork": "Blackwork"
+    },
+    "loadMore": "Charger plus",
+    "instagram": "Voir plus sur Instagram"
+  },
+  "about": {
+    "title": "À propos de l'Artiste",
+    "slide1": {
+      "heading": "Le trait que le monde a façonné",
+      "p1": "Mon histoire avec l'art n'a pas commencé dans un studio moderne, mais dans la cour de ma grand-mère en 2001, en soudant des aiguilles à la main. Avant que l'art ne voyage à travers le monde, il marchait dans les rues — j'étais livreur à pied à 11 ans, puis coursier à moto. Quand la vie m'a pris ma moto lors d'un vol, j'ai décidé : je ne parcourrais plus de routes, je dessinerais des destinations.",
+      "p2": "J'ai emprunté de l'argent à mon frère, acheté du matériel, et avec le courage de quelqu'un qui connaissait déjà l'asphalte, j'ai fait mon premier tatouage sur ma propre jambe. C'est là que j'ai compris que le tatouage était mon lieu de présence — le début d'un voyage qui me mènerait dans 18 pays."
+    },
+    "slide2": {
+      "p1": "Aujourd'hui, après 25 ans sur la route, ma relation avec la peau est guidée par la conscience que rien n'est permanent, sauf la dévotion que nous donnons au moment présent. Mon processus reflète cette philosophie : c'est un rituel sans hâte, où je réserve la journée entière exclusivement pour chaque personne.",
+      "p2": "J'alterne entre peintures sur toile et peau humaine, utilisant tout, de l'intelligence artificielle au dessin à main levée, pour m'assurer que l'art qui voyage à travers le monde trouve un endroit sûr où rester. Au final, mon objectif est que vous emportiez non seulement une image, mais la satisfaction d'avoir été véritablement vu et respecté dans un moment de connexion réelle."
+    },
+    "highlights": {
+      "years": "Ans d'expérience",
+      "countries": "Pays dans le monde",
+      "awards": "Prix remportés",
+      "clients": "Client par jour"
+    }
+  },
+  "media": {
+    "title": "Dans la Presse",
+    "subtitle": "Mis en avant dans les médias nationaux et internationaux",
+    "readMore": "Lire l'article →"
+  },
+  "cta": {
+    "headline": "Prêt à transformer votre histoire en art ?",
+    "button": "Écrire sur WhatsApp"
+  },
+  "footer": {
+    "nav": "Navigation",
+    "address": "São Paulo, SP — Brésil"
+  }
+}

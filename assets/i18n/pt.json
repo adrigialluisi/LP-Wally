@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "lang": "pt-BR",
+    "locale": "pt_BR",
+    "title": "Wally Fonseca — Tattoo & Art",
+    "description": "Tatuador premiado com 25 anos de experiência em 18 países. Tatuagem realista, fine line e pintura em tela. Agende sua sessão exclusiva."
+  },
+  "nav": {
+    "showcase": "Galeria",
+    "about": "Sobre",
+    "media": "Imprensa",
+    "cta": "Agendar"
+  },
+  "hero": {
+    "tagline": "Arte que viaja. Tinta que fica.",
+    "cta": "Agende sua sessão"
+  },
+  "showcase": {
+    "title": "Galeria de Arte",
+    "subtitle": "Uma seleção curada de tatuagens, pinturas e arte",
+    "filters": {
+      "all": "Todas",
+      "realistic": "Realistas",
+      "fineline": "Fine Line",
+      "oriental": "Oriental",
+      "paintings": "Pinturas",
+      "blackwork": "Blackwork"
+    },
+    "loadMore": "Carregar mais",
+    "instagram": "Veja mais no Instagram"
+  },
+  "about": {
+    "title": "Sobre o Artista",
+    "slide1": {
+      "heading": "O traço que o mundo moldou",
+      "p1": "Minha história com a arte não começou em um estúdio moderno, mas no quintal da minha avó, em 2001, soldando agulhas à mão. Antes da arte viajar o mundo, ela andou pelas ruas — fui entregador a pé aos 11 anos, depois motoboy. Quando a vida levou minha moto em um assalto, decidi: eu não percorreria mais rotas, eu desenharia destinos.",
+      "p2": "Pedi dinheiro emprestado ao meu irmão, comprei materiais e, com a coragem de quem já conhecia o asfalto, fiz minha primeira tatuagem na própria perna. Ali mesmo, entendi que tatuar era meu lugar de presença — o início de uma jornada que me levaria a 18 países."
+    },
+    "slide2": {
+      "p1": "Hoje, depois de 25 anos na estrada, minha relação com a pele é guiada pela consciência de que nada é permanente, exceto a devoção que damos ao momento presente. Meu processo reflete essa filosofia: é um ritual sem pressa, onde reservo o dia inteiro exclusivamente para cada pessoa.",
+      "p2": "Alterno entre pinturas em tela e pele humana, usando desde inteligência artificial até desenho à mão livre para garantir que a arte que viaja o mundo encontre um lugar seguro para ficar. No final, meu objetivo é que você carregue não apenas uma imagem, mas a satisfação de ter sido verdadeiramente visto e respeitado em um momento de conexão real."
+    },
+    "highlights": {
+      "years": "Anos de experiência",
+      "countries": "Países pelo mundo",
+      "awards": "Prêmios conquistados",
+      "clients": "Cliente por dia"
+    }
+  },
+  "media": {
+    "title": "Na Imprensa",
+    "subtitle": "Destaque em veículos nacionais e internacionais",
+    "readMore": "Ler matéria →"
+  },
+  "cta": {
+    "headline": "Pronto para transformar sua história em arte?",
+    "button": "Falar pelo WhatsApp"
+  },
+  "footer": {
+    "nav": "Navegação",
+    "address": "São Paulo, SP — Brasil"
+  }
+}
