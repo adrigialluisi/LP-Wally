@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "lang": "en",
+    "locale": "en_US",
+    "title": "Wally Fonseca — Tattoo & Art",
+    "description": "Award-winning tattoo artist with 25 years of experience across 18 countries. Realistic, fine-line, and canvas art. Book your exclusive session."
+  },
+  "nav": {
+    "showcase": "Art Showcase",
+    "about": "About",
+    "media": "Press",
+    "cta": "Book Now"
+  },
+  "hero": {
+    "tagline": "Art that travels. Ink that stays.",
+    "cta": "Book your session"
+  },
+  "showcase": {
+    "title": "Art Showcase",
+    "subtitle": "A curated selection of tattoos, paintings, and fine art",
+    "filters": {
+      "all": "All",
+      "realistic": "Realistic",
+      "fineline": "Fine Line",
+      "oriental": "Oriental",
+      "paintings": "Paintings",
+      "blackwork": "Blackwork"
+    },
+    "loadMore": "Load more",
+    "instagram": "See more on Instagram"
+  },
+  "about": {
+    "title": "About the Artist",
+    "slide1": {
+      "heading": "The stroke the world has shaped",
+      "p1": "My story with art didn't begin in a modern studio, but in my grandmother's backyard in 2001, hand-soldering needles. Before art traveled the world, it walked the streets — I was a delivery boy on foot at 11, then a motorcycle courier. When life took my bike in a robbery, I decided: I would no longer ride routes, I would draw destinations.",
+      "p2": "I borrowed money from my brother, bought materials, and with the courage of someone who already knew the asphalt, I did my first tattoo on my own leg. Right there, I understood that tattooing was my place of presence — the beginning of a journey that would take me to 18 countries."
+    },
+    "slide2": {
+      "p1": "Today, after 25 years on the road, my relationship with skin is guided by the awareness that nothing is permanent, except the devotion we give to the present moment. My process reflects this philosophy: it's an unhurried ritual, where I reserve the entire day exclusively for each person.",
+      "p2": "I alternate between canvas paintings and human skin, using everything from artificial intelligence to freehand drawing to ensure that the art that travels the world finds a safe place to stay. In the end, my goal is for you to carry not just an image, but the satisfaction of having been truly seen and respected in a moment of real connection."
+    },
+    "highlights": {
+      "years": "Years of experience",
+      "countries": "Countries worldwide",
+      "awards": "Awards won",
+      "clients": "Client per day"
+    }
+  },
+  "media": {
+    "title": "In the Press",
+    "subtitle": "Featured in national and international media",
+    "readMore": "Read article →"
+  },
+  "cta": {
+    "headline": "Ready to turn your story into art?",
+    "button": "Message on WhatsApp"
+  },
+  "footer": {
+    "nav": "Navigation",
+    "address": "São Paulo, SP — Brazil"
+  }
+}

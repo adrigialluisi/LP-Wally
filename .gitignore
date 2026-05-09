@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Source images (originals — only processed WebP goes to prod)
+Realistas/
+Realista /
+Fine Line/
+Orientais/
+Artes/
+Variadas/
+
+# Original PNGs in processed folders
+assets/images/hero/Gemini_*.png
+assets/images/sobre/Gemini_*.png
+assets/images/midia/Gemini_*.png
+
+# Old previews
+preview.html
+preview-v2.html
+preview-v3.html
+preview-hero.html
+
+# Old assets
+assets/images/hero/hero-bg.webp
+A3DED6FE-*.jpg
