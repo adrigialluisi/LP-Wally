@@ -167,8 +167,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none}
 
 /* ═══ RESPONSIVE ═══ */
 @media(max-width:768px){
-  .hdr__logo{display:none!important}
-  .hdr__left a:not(:first-child){display:none}
+  .hdr__left{display:none}
+  .hdr__logo{position:static;transform:none;opacity:1!important;pointer-events:auto}
   .hero::after{width:500px;height:500px}
   .hero__globe{width:220px;height:220px}
   .hero__tagline{font-size:2.4rem}
