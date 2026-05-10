@@ -133,7 +133,7 @@
       let shown = 0;
       items.forEach((item) => {
         const match = cat === 'all' || item.dataset.category === cat;
-        if (match && shown < 6) {
+        if (match && shown < 9) {
           item.style.display = '';
           item.removeAttribute('data-hidden');
           shown++;
@@ -166,7 +166,7 @@
       loadMoreBtn.addEventListener('click', () => {
         let count = 0;
         document.querySelectorAll('.mosaic__item[data-hidden]').forEach((item) => {
-          if (count < 6) { item.style.display = ''; item.removeAttribute('data-hidden'); count++; }
+          if (count < 9) { item.style.display = ''; item.removeAttribute('data-hidden'); count++; }
         });
         updateLM();
       });
